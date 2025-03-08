@@ -14,27 +14,27 @@ A modern React application for configuring promotional rules with support for co
 ## UI Screenshots
 
 ### Dashboard
-![Dashboard](UI/6.png)
+![Dashboard](UI/1.png)
 *Dashboard view showing promotion statistics and recent promotions*
 
 ### Promotions List
-![Promotions List](UI/5.png)
+![Promotions List](UI/2.png)
 *List of all promotions with details including name, discount, validity period, status, and conditions*
 
 ### Create Promotion
-![Create Promotion](UI/4.png)
+![Create Promotion](UI/3.png)
 *Form to create a new promotion with basic information*
 
 ### Edit Promotion
-![Edit Promotion](UI/2.png)
+![Edit Promotion](UI/4.png)
 *Interface for editing an existing promotion's details*
 
 ### View Promotion
-![View Promotion](UI/3.png)
+![View Promotion](UI/5.png)
 *Detailed view of a promotion showing all information and logical conditions*
 
 ### Confirm Deletion
-![Confirm Deletion](UI/1.png)
+![Confirm Deletion](UI/6.png)
 *Confirmation dialog when deleting a promotion*
 
 ## Getting Started
